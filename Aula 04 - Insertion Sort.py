@@ -12,7 +12,7 @@ def InsertionSort(vet, tam):
 vet = [64, -73, 38, -61, -57, -34, 40, -78, -48, -24, 17, -20, -53, 60, 33]
 
 tam = len(vet)
-print("Vetor desornado: ")
+print("Vetor desordenado: ")
 print(vet)
 
 InsertionSort(vet,tam)
