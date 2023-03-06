@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-2
-# Tipos de buscas em estrutura de dados 
+# Tipos de buscas e ordenação em estrutura de dados 
