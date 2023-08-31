@@ -1,0 +1,27 @@
+//Item A
+1521564|Galileu Galilei**********|galileu@fisica.com**********|Pisa****************
+0411643|Isaac Newton*************|newtonisaac@matematica.com**|Woolsthorpe Manor***
+2271923|Arnald Souza*************|arnald@alunos.utfpr.edu.br**|Itapetininga********
+1431879|Albert Einstein**********|einstein@relatividade.com***|Ulm*****************
+1921473|Nicolau Copernico********|copernico@astronimia.com****|Torun***************
+
+//Item B
+1521564|Galileu Galilei|galileu@fisica.com|Pisa|
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#2271923|Arnald Souza|arnald@alunos.utfpr.edu.br|Itapetininga|
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+//Item C
+481521564|Galileu Galilei|galileu@fisica.com|Pisa|
+660411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+612271923|Arnald Souza|arnald@alunos.utfpr.edu.br|Itapetininga|
+541431879|Albert Einstein|einstein@relatividade.com|Ulm|
+561921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+//Item D
+matricula=1521564|nome=Galileu Galilei|e-mail=galileu@fisica.com|cidade=Pisa|
+matricula=0411643|nome=Isaac Newton|e-mail=newtonisaac@matematica.com|cidade=Woolsthorpe Manor|
+matricula=2271923|nome=Arnald Souza|e-mail=arnald@alunos.utfpr.edu.br|cidade=Itapetininga|
+matricula=1431879|nome=Albert Einstein|e-mail=einstein@relatividade.com|cidade=Ulm|
+matricula=1921473|nome=Nicolau Copernico|e-mail=copernico@astronimia.com|cidade=Torun|

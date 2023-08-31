@@ -1,0 +1,38 @@
+//Item A
+Head.First_Avail: -1
+1521564|Galileu Galilei|galileu@fisica.com|Pisa|
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#2271923|Arnald Souza|arnald@alunos.utfpr.edu.br|Itapetininga|
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+//Item B
+Head.First_Avail: 118
+1521564|Galileu Galilei|galileu@fisica.com|Pisa|
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#61*-1
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+//Item C
+Head.First_Avail: 0
+48*118
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#61*-1
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+
+//Item D
+Head.First_Avail: 0
+4*1181101101|Thomas Anderson|neo@matrix.com|Zion| 
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#61*-1..........................................................
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun
+
+//Item E
+1101101|Thomas Anderson|neo@matrix.com|Zion| 
+#0411643|Isaac Newton|newtonisaac@matematica.com|Woolsthorpe Manor|
+#1431879|Albert Einstein|einstein@relatividade.com|Ulm|
+#1921473|Nicolau Copernico|copernico@astronimia.com|Torun

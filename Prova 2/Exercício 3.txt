@@ -1,0 +1,2 @@
+A estratégia para organização de campos seria a expressão chave-valor, pois ela é boa para manipular possíveis valores ausentes e o campo apresenta informação do dado a ser colocado.
+Para organização de registros seria indicador de tamanho, pois já se sabe o tamanho disponível para inserção de novos registros facilitando a inserção.
